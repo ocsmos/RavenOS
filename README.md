@@ -1,5 +1,5 @@
 <p align="center">
-  <!---logo/logo.png -->
+  <!--- logo.png -->
   <img src="logo/logo.png" alt="RavenOS Logo" width="160">
 </p>
 
