@@ -30,25 +30,23 @@ The idea is simple: a live system that gives you a prepared environment without 
 
 ## Preview ROS
 
-```md
-![](screenshots-ros/01.png)
-(screenshots-ros/02.png)
-(screenshots-ros/03.png)
-(screenshots-ros/04.png)
-(screenshots-ros/05.png)
-(screenshots-ros/06.png)
-(screenshots-ros/07.png)
-(screenshots-ros/08.png)
-(screenshots-ros/09.png)
-(screenshots-ros/10.png)
-(screenshots-ros/11.png)
-(screenshots-ros/12.png)
-(screenshots-ros/13.png)
-(screenshots-ros/14.png)
-(screenshots-ros/15.png)
-(screenshots-ros/16.png)
-(screenshots-ros/17.png)
-```
+![Screenshot 1](screenshots-ros/01.png)
+![Screenshot 2](screenshots-ros/02.png)
+![Screenshot 3](screenshots-ros/03.png)
+![Screenshot 4](screenshots-ros/04.png)
+![Screenshot 5](screenshots-ros/05.png)
+![Screenshot 6](screenshots-ros/06.png)
+![Screenshot 7](screenshots-ros/07.png)
+![Screenshot 8](screenshots-ros/08.png)
+![Screenshot 9](screenshots-ros/09.png)
+![Screenshot 10](screenshots-ros/10.png)
+![Screenshot 11](screenshots-ros/11.png)
+![Screenshot 12](screenshots-ros/12.png)
+![Screenshot 13](screenshots-ros/13.png)
+![Screenshot 14](screenshots-ros/14.png)
+![Screenshot 15](screenshots-ros/15.png)
+![Screenshot 16](screenshots-ros/16.png)
+![Screenshot 17](screenshots-ros/17.png)
 
 ---
 
