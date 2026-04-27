@@ -31,7 +31,7 @@ The idea is simple: a live system that gives you a prepared environment without 
 ## Preview ROS
 
 ```md
-(screenshots-ros/01.png)
+![](screenshots-ros/01.png)
 (screenshots-ros/02.png)
 (screenshots-ros/03.png)
 (screenshots-ros/04.png)
