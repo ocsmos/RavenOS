@@ -107,15 +107,14 @@ ROS-PY: around 9–10 GB
 ROS-PY will also use **GNOME** with similar customizations.
 
 ## Preview ROS-PY
-```md
-(screenshots-ros-py/01.png)
-(screenshots-ros-py/02.png)
-(screenshots-ros-py/03.png)
-(screenshots-ros-py/04.png)
-(screenshots-ros-py/05.png)
-(screenshots-ros-py/06.png)
-(screenshots-ros-py/07.png)
-```
+
+![Screenshot 1](screenshots-ros-py/01.png)
+![Screenshot 2](screenshots-ros-py/02.png)
+![Screenshot 3](screenshots-ros-py/03.png)
+![Screenshot 4](screenshots-ros-py/04.png)
+![Screenshot 5](screenshots-ros-py/05.png)
+![Screenshot 6](screenshots-ros-py/06.png)
+![Screenshot 7](screenshots-ros-py/07.png)
 
 ---
 
