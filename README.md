@@ -1,6 +1,6 @@
 <p align="center">
   <!--- logo.png -->
-  <img src="logos/logo-2.png" alt="RavenOS Logo" width="450">
+  <img src="logos/logo-2.png" alt="RavenOS Logo" width="670">
 </p>
 
 ```
